@@ -34,7 +34,7 @@ app_options:
 
 style:
   # 选择皮肤，亮色与暗色主题
-  color_scheme: zcheng
+  color_scheme:zcheng
   color_scheme_dark: zcheng
 
   # 预设选项。如果皮肤没写，则使用这些属性；如果皮肤写了，使用皮肤的。
@@ -84,7 +84,6 @@ preset_color_schemes:
       border_height: 4 # 窗口上下高度
       border_width: 4 # 窗口左右宽度
       border_color_width: 0 # 输入条边框宽度
-
 
   # 对 purity_of_form 略微调整颜色，让色彩更柔和点，补全其他选项和注释
   purity_of_form_custom:
